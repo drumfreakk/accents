@@ -25,29 +25,39 @@ selectText(document.querySelector(id));
 
 document.querySelector("#seag").addEventListener("click", function(){copy("#seag")});
 document.querySelector("#secr").addEventListener("click", function(){copy("#secr")});
-document.querySelector("#semc").addEventListener("click", function(){copy("#semc")});
 document.querySelector("#segr").addEventListener("click", function(){copy("#segr")});
 document.querySelector("#secc").addEventListener("click", function(){copy("#secc")});
 document.querySelector("#seum").addEventListener("click", function(){copy("#seum")});
 
 document.querySelector("#ceag").addEventListener("click", function(){copy("#ceag")});
 document.querySelector("#cecr").addEventListener("click", function(){copy("#cecr")});
-document.querySelector("#cemc").addEventListener("click", function(){copy("#cemc")});
 document.querySelector("#cegr").addEventListener("click", function(){copy("#cegr")});
 document.querySelector("#cecc").addEventListener("click", function(){copy("#cecc")});
 document.querySelector("#ceum").addEventListener("click", function(){copy("#ceum")});
 
 document.querySelector("#saag").addEventListener("click", function(){copy("#saag")});
 document.querySelector("#sacr").addEventListener("click", function(){copy("#sacr")});
-document.querySelector("#samc").addEventListener("click", function(){copy("#samc")});
 document.querySelector("#sagr").addEventListener("click", function(){copy("#sagr")});
 document.querySelector("#sacc").addEventListener("click", function(){copy("#sacc")});
 document.querySelector("#saum").addEventListener("click", function(){copy("#saum")});
 
 document.querySelector("#caag").addEventListener("click", function(){copy("#caag")});
 document.querySelector("#cacr").addEventListener("click", function(){copy("#cacr")});
-document.querySelector("#camc").addEventListener("click", function(){copy("#camc")});
 document.querySelector("#cagr").addEventListener("click", function(){copy("#cagr")});
 document.querySelector("#cacc").addEventListener("click", function(){copy("#cacc")});
 document.querySelector("#caum").addEventListener("click", function(){copy("#caum")});
 
+document.querySelector("#siag").addEventListener("click", function(){copy("#siag")});
+document.querySelector("#sigr").addEventListener("click", function(){copy("#sigr")});
+
+document.querySelector("#ciag").addEventListener("click", function(){copy("#ciag")});
+document.querySelector("#cigr").addEventListener("click", function(){copy("#cigr")});
+
+document.querySelector("#suum").addEventListener("click", function(){copy("#suum")});
+document.querySelector("#cuum").addEventListener("click", function(){copy("#cuum")});
+
+document.querySelector("#soum").addEventListener("click", function(){copy("#soum")});
+document.querySelector("#coum").addEventListener("click", function(){copy("#coum")});
+
+document.querySelector("#euro").addEventListener("click", function(){copy("#euro")});
+document.querySelector("#degr").addEventListener("click", function(){copy("#degr")});
