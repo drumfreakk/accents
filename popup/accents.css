@@ -1,3 +1,12 @@
-.hidden {
-  display: none;
+th, td {
+	padding: 2.5px;
 }
+
+table {
+	border-spacing: 2.5px;
+}
+
+div {
+	padding: 2.5px;
+}
+
