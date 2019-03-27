@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+	"name": "accents",
+	"description": "Copy accents to clipboard",
+	"version": "1.0",
+	"icons": {
+		"48": "icons/accent-48.png"
+	},
+	"browser_action": {
+		"default_icon": "icons/accent-32.png",
+		"default_title": "accents",
+		"default_popup": "popup/accents.html"
+	},
+	"content_scripts": [{
+		"matches": ["<all_urls>"],
+		"js": ["content-script.js"]
+	 }],
+
+	"permissions": [
+		"clipboardWrite",
+		"activeTab"
+	]
+}
