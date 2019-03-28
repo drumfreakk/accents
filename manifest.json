@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "accents",
-	"description": "Copy accents to clipboard",
-	"version": "2.5",
+	"description": "Copy accents and special characters to clipboard",
+	"version": "3.0",
 	"icons": {
 		"48": "icons/accent-48.png"
 	},
@@ -10,9 +10,5 @@
 		"default_icon": "icons/accent-32.png",
 		"default_title": "accents",
 		"default_popup": "popup/accents.html"
-	},
-	"permissions": [
-		"clipboardWrite",
-		"activeTab"
-	]
+	}
 }
