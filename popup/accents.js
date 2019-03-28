@@ -59,5 +59,15 @@ document.querySelector("#cuum").addEventListener("click", function(){copy("#cuum
 document.querySelector("#soum").addEventListener("click", function(){copy("#soum")});
 document.querySelector("#coum").addEventListener("click", function(){copy("#coum")});
 
+document.querySelector("#sccd").addEventListener("click", function(){copy("#sccd")});
+document.querySelector("#cccd").addEventListener("click", function(){copy("#cccd")});
+
 document.querySelector("#euro").addEventListener("click", function(){copy("#euro")});
 document.querySelector("#degr").addEventListener("click", function(){copy("#degr")});
+document.querySelector("#eszt").addEventListener("click", function(){copy("#eszt")});
+
+document.querySelector("#delt").addEventListener("click", function(){copy("#delt")});
+document.querySelector("#omeg").addEventListener("click", function(){copy("#omeg")});
+document.querySelector("#micr").addEventListener("click", function(){copy("#micr")});
+document.querySelector("#shro").addEventListener("click", function(){copy("#shro")});
+document.querySelector("#piii").addEventListener("click", function(){copy("#piii")});
